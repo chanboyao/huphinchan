@@ -1,0 +1,36 @@
+c:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+c:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+c:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.exe.config
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.exe.manifest
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.application
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.exe
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.pdb
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HHC.xml
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form1.resources
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.Resources.resources
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.exe.manifest
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.application
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.exe
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.xml
+C:\Users\SQL MYSOFTWARE.DESKTOP-IVERLCD\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HHC.pdb
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form1.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Resources.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form2.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form3.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form4.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form5.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\HHC.Form6.resources
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.exe.config
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.exe.manifest
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.application
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.exe
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.pdb
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\bin\Debug\Hup Hin Chan Rice Mill Sdn Bhd.xml
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\Hup Hin Chan Rice Mill Sdn Bhd.exe.manifest
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\Hup Hin Chan Rice Mill Sdn Bhd.application
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\Hup Hin Chan Rice Mill Sdn Bhd.exe
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\Hup Hin Chan Rice Mill Sdn Bhd.xml
+C:\Users\Lenovo\Desktop\Linking\WindowsApp1\WindowsApp1\obj\Debug\Hup Hin Chan Rice Mill Sdn Bhd.pdb
